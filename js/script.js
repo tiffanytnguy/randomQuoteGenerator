@@ -85,7 +85,7 @@ function printQuote() {
 
   // Set NEW random quote inside quote-box
   let quoteBox = document.getElementById("quote-box");
-  quoteBox.innerHTML = html;
+  quoteBox.innerHTML = htmlAdd;
 }
 
 /***
